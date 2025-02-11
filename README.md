@@ -118,14 +118,6 @@ Me chamo Daniel Barreto Torres, sou natural do Rio de Janeiro. Atualmente, estou
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
