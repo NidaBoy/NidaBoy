@@ -5,10 +5,10 @@
 Me chamo Daniel Barreto Torres, sou natural do Rio de Janeiro. Atualmente, estou no 7° do curso de Ciência da Computação na UFMG.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.linkedin.com/in/daniel-torres-130406224/">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="Linkedin profile" 
+            title="Linkedin" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
@@ -26,11 +26,11 @@ Me chamo Daniel Barreto Torres, sou natural do Rio de Janeiro. Atualmente, estou
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://www.linkedin.com/in/daniel-torres-130406224/">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Linkedin profile" 
+            title="Linkedin profile" 
+            src="https://cdn-icons-png.flaticon.com/256/174/174857.png?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=Linkedin&label=Linkedin&logoColor=white"
         />
     </a>
 </p>
