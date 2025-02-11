@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Daniel Barreto
+# 👨‍💻 Daniel Barreto
 
 **`Desenvolvedor FullStack e Cientista de Dados`**
 
